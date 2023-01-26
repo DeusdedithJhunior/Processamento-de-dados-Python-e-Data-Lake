@@ -1,0 +1,2 @@
+# Processamento-de-dados-Python-e-Data-Lake
+ Esse mini projeto foi criado apenas como prática de estudo. Neste projeto foi colocado em prática algumas atividades de pré-processamento de dados de texto extraídos de um Data Lake (local), criado com um banco de dados NoSQL, o MongoDB. Neste projeto teremos em mãos dados de texto simulando comentários de usuários. Para este projeto, foram usados uma massa de dados fictícios simulando posts de comentários de usuários em redes sociais e/ou blogs. Foi usado o site do mockaroo (https://www.mockaroo.com/) para a criação desses dados.
